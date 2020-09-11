@@ -1,0 +1,327 @@
+ 
+
+The word “pixel” Is really a short form of two words, “picture element”. It's an appropriate name,
+since pixels are in fact the elements which make up our digital pictures. Pixels are the building blocks
+of any digital photo or image, sort of like how those fancy Lego toys they sell at your local Toys R Us
+are really nothing more than a collection of small, individual Lego pieces, or how pieces of a jigsaw
+puzzle come together to form a complete picture, yet if you're standing close enough to the puzzle,
+you can still see the individual pieces. Pixels make up your digital photos and images in much the
+same way.
+
+When you look at a digital photograph on your computer screen, even though it looks like @ normal
+photo and you can clearly make out the people and/or objects in the photo, what you're really seeing
+is nothing more than a massive collection of colored squares, squares that are normally too small for
+your eyes to see them individually, yet when placed side-by-side and above and below each other,
+they form a complete image, which is the photograph you're looking at on your screen. What you see
+as a photo you took using your digital camera of your family or a recent trip, a sporting event or what-
+ever the case may be, is really nothing more than a whole bunch of tiny colored squares.
+
+-------------------------------------
+Preface ii
+
+ 
+
+is a challenge to let first year students find their focus and motivation (and to
+
+ 
+ 
+
+be silent while you are explaining something), and that it is not easy to
+explain things that are not straightforward such as programming. Being
+
+ant slowed down my PhD research, but on the other hand it
+
+   
+
+ 
+
+a blessing that I did not have to worry about funding and the teaching offered a
+
+nice alteration to working with my good friends Matlab and Visual Studio.
+
+    
+
+Like anything else in life, the proces:
+lots of ups and downs. Only rese
+
+s of getting a PhD is a bumpy road with
+s know the frustration of working for months
+
+ 
+
+   
+
+che
+
+ 
+
+on an optimization to find out in the end that it really does not improve the results a
+single bit. Debugging and the unavoidable s altogether have probably
+
+ 
+
+ 
+
+a year of my life. On the other hand, research also offers incomparable climaxes
+when your code finally produces the desired output or when an experiment points
+out the hoped-for results. If I look back upon the 6.5 years I spend in research,
+these years compose a very valuable lesson for life in general, teaching you to never
+give up trying to reach your goals, to put yourself back together after a failure and
+to keep believing in the things you do.
+
+ 
+
+  
+
+ 
+
+Although the process of getting a PhD often feels like a lonely quest in which
+
+ 
+
+ 
+
+you are thrown on your own resources, the opposite is true and it is important to
+never forget the people around you and their valuable contributions. Therefore, I
+
+ 
+
+have to thank prof. Werner Verhelst to convince me to start with my PhD, to find
+the necessary funding, to elaborate together on the proposed audiovisual speech
+synthesis approach and to carefully revise my publications and this thesis. I also
+at ETRO and at DSSP for the nice working atmosphere I have
+Getting through a stressful day of failing programming
+
+  
+
+thank my colleagues
+been able to expe
+
+ 
+  
+    
+ 
+
+ 
+
+once.
+code is only possible when it can be alternated with interesting, pleasant and
+especially funny conversations with the people around you. For this I thank my
+co-workers at building K and at building Ke, especially offices Ke3.13 and Ke3.14.
+
+ 
+
+Gio, Selma, Lukas, Tomas: I cannot imagine better office co-workers than you guys.
+I feel we have become real friends and that we will keep on meeting each other in
+
+ 
+
+our post-VUB life. Lukas and Tomas, you guys ded in making me
+laugh with your (sometimes somewhat special) sense of humour! If I go through my
+pictures collection, it is amazing how many events and parties we already attended
+
+alway
+
+   
+
+s sul
+
+  
+
+ 
+
+ 
+
+together (Tomas, you're looking good on every single picture ... sort of). You guys
+also made the Interspeech 2011 conference in Firenze probably the nic
+ever (recall “Luca de la Tacci”, “Tommaso Blanchetti” and “Matteo di Mattei”).
+Thope we continue making fun together in the future and that we stay close in touch.
+
+ 
+
+st conference
+
+ 
+
+Obviously,
+mosphere
+
+colleagues are not only ne
+they also supply valuable advi
+
+ary for the appropriate working at-
+nd support to your research. Iam very
+
+     
+
+    
+
+-------------------------------------
+Preface ii
+
+ 
+
+is a challenge to let first year students find their focus and motivation (and to
+
+ 
+ 
+
+be silent while you are explaining something), and that it is not easy to
+explain things that are not straightforward such as programming. Being
+
+ant slowed down my PhD research, but on the other hand it
+
+   
+
+ 
+
+a blessing that I did not have to worry about funding and the teaching offered a
+
+nice alteration to working with my good friends Matlab and Visual Studio.
+
+    
+
+Like anything else in life, the proces:
+lots of ups and downs. Only rese
+
+s of getting a PhD is a bumpy road with
+s know the frustration of working for months
+
+ 
+
+   
+
+che
+
+ 
+
+on an optimization to find out in the end that it really does not improve the results a
+single bit. Debugging and the unavoidable s altogether have probably
+
+ 
+
+ 
+
+a year of my life. On the other hand, research also offers incomparable climaxes
+when your code finally produces the desired output or when an experiment points
+out the hoped-for results. If I look back upon the 6.5 years I spend in research,
+these years compose a very valuable lesson for life in general, teaching you to never
+give up trying to reach your goals, to put yourself back together after a failure and
+to keep believing in the things you do.
+
+ 
+
+  
+
+ 
+
+Although the process of getting a PhD often feels like a lonely quest in which
+
+ 
+
+ 
+
+you are thrown on your own resources, the opposite is true and it is important to
+never forget the people around you and their valuable contributions. Therefore, I
+
+ 
+
+have to thank prof. Werner Verhelst to convince me to start with my PhD, to find
+the necessary funding, to elaborate together on the proposed audiovisual speech
+synthesis approach and to carefully revise my publications and this thesis. I also
+at ETRO and at DSSP for the nice working atmosphere I have
+Getting through a stressful day of failing programming
+
+  
+
+thank my colleagues
+been able to expe
+
+ 
+  
+    
+ 
+
+ 
+
+once.
+code is only possible when it can be alternated with interesting, pleasant and
+especially funny conversations with the people around you. For this I thank my
+co-workers at building K and at building Ke, especially offices Ke3.13 and Ke3.14.
+
+ 
+
+Gio, Selma, Lukas, Tomas: I cannot imagine better office co-workers than you guys.
+I feel we have become real friends and that we will keep on meeting each other in
+
+ 
+
+our post-VUB life. Lukas and Tomas, you guys ded in making me
+laugh with your (sometimes somewhat special) sense of humour! If I go through my
+pictures collection, it is amazing how many events and parties we already attended
+
+alway
+
+   
+
+s sul
+
+  
+
+ 
+
+ 
+
+together (Tomas, you're looking good on every single picture ... sort of). You guys
+also made the Interspeech 2011 conference in Firenze probably the nic
+ever (recall “Luca de la Tacci”, “Tommaso Blanchetti” and “Matteo di Mattei”).
+Thope we continue making fun together in the future and that we stay close in touch.
+
+ 
+
+st conference
+
+ 
+
+Obviously,
+mosphere
+
+colleagues are not only ne
+they also supply valuable advi
+
+ary for the appropriate working at-
+nd support to your research. Iam very
+
+     
+
+    
+
+-------------------------------------
+Ah, yes.. Thank you!
+
+First of all, | would like to express my sincere gratitude to Kudo Hina-Lee
+Yang Hwa for helping me become more flexible as a person or as an
+actress.
+
+Our drama has actually worked together as one with summer and winter
+passing by, so! would like to thank all the staff members and to my dear
+actors for giving me all the support | received from them. There are some
+people who have been around with me for a while for Hina, and also to
+my personal staff who has been right there till the end. | would like to call
+every one of them, and | will try to contact them because | feel like | have
+just finished.
+
+This is an award that seems to be for Kudo Hina and not for Kim Min Jung,
+so! do not have anything bigger to say. With this award, Now it's time to
+be content with this form. It's been a long time since I've received one,
+but | wasn't been able to get along, but my shoulders are getting a bit
+shrugged and feel better.
+
+| will always remain to be an actor who is silent and still on the spot. Thank
+you!
+
+Translations by @fangirl978
+*May contain inaccuracies*
+~take with full credits
+
+-------------------------------------
